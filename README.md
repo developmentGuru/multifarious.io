@@ -33,3 +33,16 @@ The html file can be uploaded to a server and domain for public viewing, or a pr
 ### PHP
 Important note! PHP pages can only be viewed when uploaded onto a server. For development, XAMPP as a localhost server may be used. 
 [XAMPP Info](https://www.apachefriends.org/index.html)
+
+### C
+You can run and debug C programs during development with vscode. 
+[Learn more](https://code.visualstudio.com/docs/languages/cpp)
+
+### C#
+You can run and debug C# programs during development with vscode.
+[More on C#](https://code.visualstudio.com/docs/languages/csharp)
+
+### TypeScript
+
+You can develop with TypeScript in vscode.
+[Learn more about tsx compiling](https://code.visualstudio.com/docs/typescript/typescript-compiling)

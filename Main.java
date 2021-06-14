@@ -1,3 +1,6 @@
+// author: Bryce Meizen
+// today: 6/14/2021 
+
 public class Main {
 
     static void printHelloWorld() {
